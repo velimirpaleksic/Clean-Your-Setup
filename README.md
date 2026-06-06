@@ -1,5 +1,9 @@
 # Clean Your Setup
 
+## Screenshot
+
+![Clean Your Setup app screenshot](./Assets/clean_your_setup_app_interface.png)
+
 A small portable Windows utility that blocks keyboard and/or mouse input while you clean your desk, keyboard, mouse, and accessories.
 
 The app is built for a simple problem: cleaning your setup without accidentally clicking, typing, opening windows, moving files, or triggering shortcuts.
